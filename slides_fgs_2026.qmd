@@ -269,7 +269,7 @@ El **análisis** se realiza con software específico ([MAXQDA](https://www.maxqd
 ::: notes
 - Deja que Sergi te pare aquí en la parte del enfoque abductivo.
 
-- Dimensiones: objeto, evaluación, consentimiento (postura, objeto, mecanismo, acción) e interacción.
+- Dimensiones: tema, actor, evaluación, consentimiento, e interacción.
 
 - Varios códigos por fragmento. Se revisa en reuniones de equipo.
 :::
