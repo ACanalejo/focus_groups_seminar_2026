@@ -74,8 +74,6 @@ Postdoc en el [IPP-CSIC](https://www.ipp.csic.es), proyecto [CONSENT](https://co
 
 ## Qué son los grupos de discusión
 
-<br>
-
 - Conversación guiada en grupo sobre un tema de investigación
 
 - Lo central es la **interacción**
@@ -100,7 +98,6 @@ Postdoc en el [IPP-CSIC](https://www.ipp.csic.es), proyecto [CONSENT](https://co
 
 ## CONSENT
 
-<br>
 
 [ERC Consolidator Grant](https://cordis.europa.eu/project/id/101170551) (2025-2030)
 
@@ -134,8 +131,6 @@ Postdoc en el [IPP-CSIC](https://www.ipp.csic.es), proyecto [CONSENT](https://co
 :::
 
 ## De dónde partimos
-
-<br>
 
 - Muchas teorías, **poco testadas**
 
@@ -286,8 +281,6 @@ El **análisis** se realiza con software específico ([MAXQDA](https://www.maxqd
 
 ## Extra: preguntas abiertas
 
-<br>
-
 :::: {.columns}
 
 ::: {.column width="45%"}
@@ -332,8 +325,6 @@ Preguntas de Sergi:
 :::
 
 ## Boas, Hidalgo y Melo (2019)
-
-<br>
 
 [*Norms versus Action*](https://people.bu.edu/tboas/norms_vs_action.pdf), AJPS
 
